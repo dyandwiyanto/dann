@@ -9,4 +9,4 @@ Website landing page modern yang:
 
 Karena ini website statis, cukup buka file berikut di browser:
 
-- `/home/runner/work/dann/dann/index.html`
+- `index.html`

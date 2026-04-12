@@ -15,4 +15,4 @@ toggle?.addEventListener("click", () => {
   document.body.classList.toggle("light");
 });
 
-document.getElementById("year").textContent = new Date().getFullYear();
+document.getElementById("year")?.textContent = new Date().getFullYear();
